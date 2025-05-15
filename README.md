@@ -1,6 +1,8 @@
 Chess opening names
 ===================
 
+<iframe id="13269730" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="https://www.chess.com/emboard?id=13269730"></iframe><script nonce="chesscom-diagram">window.addEventListener("message",e=>{e['data']&&"13269730"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+37}px`)});</script>
+
 An aggregated data set of chess opening names.
 
 field | `/` | `dist/` | description
